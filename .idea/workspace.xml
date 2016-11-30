@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59322390-f583-4c5f-b330-eb57b8e2592d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_stefanbirkner_system_rules_1_16_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_13_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_4_3_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/soundsystem/beans/CDPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/soundsystem/beans/CompactDisc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/soundsystem/beans/MediaPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/soundsystem/beans/SgtPeppers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/soundsystem/configuration/CDPlayerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/au/com/edimoto/springstudies/soundsystem/CDPlayerTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/SpringStudies_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_4_RELEASE__2_.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/au/com/edimoto/springstudies/AppTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/com/edimoto/springstudies/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/com/edimoto/springstudies/BraveKnight.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/com/edimoto/springstudies/Knight.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/com/edimoto/springstudies/Minstrel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/com/edimoto/springstudies/Quest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/com/edimoto/springstudies/SlayDragonQuest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/au/com/edimoto/springstudies/config/KnightConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/au/com/edimoto/springstudies/AppTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_4_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_4_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringStudies.iml" afterPath="$PROJECT_DIR$/SpringStudies.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring-config.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring-config.xml" afterPath="$PROJECT_DIR$/target/classes/spring-config.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/App.java" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/knight/App.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/BraveKnight.java" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/knight/BraveKnight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/Knight.java" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/knight/Knight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/Minstrel.java" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/knight/Minstrel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/Quest.java" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/knight/Quest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/SlayDragonQuest.java" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/knight/SlayDragonQuest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/config/KnightConfig.java" afterPath="$PROJECT_DIR$/src/main/java/au/com/edimoto/springstudies/knight/config/KnightConfig.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CDPlayerTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CDPlayerTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/au/com/edimoto/springstudies/soundsystem/CDPlayerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="428">
@@ -94,6 +51,61 @@
                 <element signature="e#1072#1073#0" expanded="true" />
                 <element signature="e#1105#1106#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/au.com.edimoto.springstudies.soundsystem.beans.CDPlayer" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/au.com.edimoto.springstudies.soundsystem.beans.CDPlayer">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>au.com.edimoto.springstudies.soundsystem.beans.CDPlayer</OriginalElement>
+              <nodes>
+                <node x="217.125" y="101.5">au.com.edimoto.springstudies.soundsystem.beans.SgtPeppers</node>
+                <node x="288.75" y="0.0">au.com.edimoto.springstudies.soundsystem.beans.CompactDisc</node>
+                <node x="17.125" y="101.0">au.com.edimoto.springstudies.soundsystem.beans.CDPlayer</node>
+                <node x="141.5" y="0.0">org.springframework.stereotype.Component</node>
+                <node x="0.0" y="0.0">au.com.edimoto.springstudies.soundsystem.beans.MediaPlayer</node>
+                <node x="-261.5" y="-109.0">au.com.edimoto.springstudies.soundsystem.configuration.CDPlayerConfig</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="au.com.edimoto.springstudies.soundsystem.beans.SgtPeppers" target="au.com.edimoto.springstudies.soundsystem.beans.CompactDisc">
+                  <point x="36.75" y="-48.0" />
+                  <point x="327.375" y="76.0" />
+                  <point x="343.25" y="76.0" />
+                  <point x="0.0" y="25.5" />
+                </edge>
+                <edge source="au.com.edimoto.springstudies.soundsystem.beans.SgtPeppers" target="org.springframework.stereotype.Component">
+                  <point x="-36.75" y="-48.0" />
+                  <point x="253.875" y="76.0" />
+                  <point x="233.75" y="76.0" />
+                  <point x="30.75" y="25.5" />
+                </edge>
+                <edge source="au.com.edimoto.springstudies.soundsystem.beans.CDPlayer" target="org.springframework.stereotype.Component">
+                  <point x="45.0" y="-48.5" />
+                  <point x="152.125" y="76.0" />
+                  <point x="172.25" y="76.0" />
+                  <point x="-30.75" y="25.5" />
+                </edge>
+                <edge source="au.com.edimoto.springstudies.soundsystem.beans.CDPlayer" target="au.com.edimoto.springstudies.soundsystem.beans.MediaPlayer">
+                  <point x="-45.0" y="-48.5" />
+                  <point x="62.125" y="76.0" />
+                  <point x="54.5" y="76.0" />
+                  <point x="0.0" y="25.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="106.5" y="54.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -864,8 +876,16 @@
       <option name="presentableId" value="Default" />
       <updated>1480457559903</updated>
       <workItem from="1480457563327" duration="90000" />
-      <workItem from="1480457706727" duration="10609000" />
+      <workItem from="1480457706727" duration="11544000" />
     </task>
+    <task id="LOCAL-00001" summary="Update in sources after review chapter 2 in book.">
+      <created>1480481380435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1480481380435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -901,7 +921,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10699000" />
+    <option name="totallyTimeSpent" value="11634000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -913,8 +933,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -934,7 +954,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.4936034" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32875264" sideWeight="0.39712155" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32875264" sideWeight="0.39712155" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47780126" sideWeight="0.68710023" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
@@ -1235,6 +1255,59 @@
             <element signature="e#1072#1073#0" expanded="true" />
             <element signature="e#1105#1106#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/au.com.edimoto.springstudies.soundsystem.beans.CDPlayer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>au.com.edimoto.springstudies.soundsystem.beans.CDPlayer</OriginalElement>
+          <nodes>
+            <node x="217.125" y="101.5">au.com.edimoto.springstudies.soundsystem.beans.SgtPeppers</node>
+            <node x="288.75" y="0.0">au.com.edimoto.springstudies.soundsystem.beans.CompactDisc</node>
+            <node x="17.125" y="101.0">au.com.edimoto.springstudies.soundsystem.beans.CDPlayer</node>
+            <node x="141.5" y="0.0">org.springframework.stereotype.Component</node>
+            <node x="0.0" y="0.0">au.com.edimoto.springstudies.soundsystem.beans.MediaPlayer</node>
+            <node x="-261.5" y="-109.0">au.com.edimoto.springstudies.soundsystem.configuration.CDPlayerConfig</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="au.com.edimoto.springstudies.soundsystem.beans.SgtPeppers" target="au.com.edimoto.springstudies.soundsystem.beans.CompactDisc">
+              <point x="36.75" y="-48.0" />
+              <point x="327.375" y="76.0" />
+              <point x="343.25" y="76.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="au.com.edimoto.springstudies.soundsystem.beans.SgtPeppers" target="org.springframework.stereotype.Component">
+              <point x="-36.75" y="-48.0" />
+              <point x="253.875" y="76.0" />
+              <point x="233.75" y="76.0" />
+              <point x="30.75" y="25.5" />
+            </edge>
+            <edge source="au.com.edimoto.springstudies.soundsystem.beans.CDPlayer" target="org.springframework.stereotype.Component">
+              <point x="45.0" y="-48.5" />
+              <point x="152.125" y="76.0" />
+              <point x="172.25" y="76.0" />
+              <point x="-30.75" y="25.5" />
+            </edge>
+            <edge source="au.com.edimoto.springstudies.soundsystem.beans.CDPlayer" target="au.com.edimoto.springstudies.soundsystem.beans.MediaPlayer">
+              <point x="-45.0" y="-48.5" />
+              <point x="62.125" y="76.0" />
+              <point x="54.5" y="76.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="106.5" y="54.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
