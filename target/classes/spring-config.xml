@@ -10,13 +10,13 @@
       http://www.springframework.org/schema/aop/spring-aop-3.2.xsd
     http://www.springframework.org/schema/beans
       http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <bean id="knight" class="au.com.edimoto.springstudies.BraveKnight">
+    <bean id="knight" class="au.com.edimoto.springstudies.knight.BraveKnight">
         <constructor-arg ref="quest"/>
     </bean>
-    <bean id="quest" class="au.com.edimoto.springstudies.SlayDragonQuest">
+    <bean id="quest" class="au.com.edimoto.springstudies.knight.SlayDragonQuest">
         <constructor-arg value="#{T(System).out}"/>
     </bean>
-    <bean id="minstrel" class="au.com.edimoto.springstudies.Minstrel">
+    <bean id="minstrel" class="au.com.edimoto.springstudies.knight.Minstrel">
         <constructor-arg value="#{T(System).out}"/>
     </bean>
     <!--<aop:config>
